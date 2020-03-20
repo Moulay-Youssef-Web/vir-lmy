@@ -1,0 +1,2 @@
+# vir-lmy
+Ce site web est développé à la base d'un modèle Open-Source (sous une licence Creative Commons Attribution 3.0) avec les langages HTML5, CSS3 et PHP dans un but purement pédagogique : fournir un espace virtuel d'échange entre les étudiants et les enseignants de notre lycée Moulay Youssef durant la pandémie COVID-19 et en parallèle avec les ordres du gouvernement interdisant chaque rassemblement humain afin de contrôler l'épidémie.
